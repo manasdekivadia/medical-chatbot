@@ -1,6 +1,7 @@
 # Medical Chatbot
 
 Welcome to the **Medical Chatbot** project! This intelligent assistant is designed to provide medical information and support using advanced AI and NLP techniques. It can help users with medical queries, symptoms, and general healthcare information.
+![image](https://github.com/user-attachments/assets/e9124e17-4bb7-40d1-95e4-3c8c34cc0daa)
 
 ---
 
