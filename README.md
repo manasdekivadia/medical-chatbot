@@ -1,1 +1,56 @@
-# medical-chatbot
+# Medical Chatbot
+
+Welcome to the **Medical Chatbot** project! This intelligent assistant is designed to provide medical information and support using advanced AI and NLP techniques. It can help users with medical queries, symptoms, and general healthcare information.
+
+---
+
+## Project Overview
+
+The Medical Chatbot leverages state-of-the-art language models and knowledge retrieval to answer health-related questions accurately and efficiently. It is built for easy integration, extensibility, and deployment as a web or desktop app.
+
+---
+
+## Repository Structure
+
+medical-chatbot/
+│
+├── app.py # Main Flask backend app
+├── requirements.txt # Python dependencies
+├── README.md # This file
+├── data/ # Medical documents, datasets, and knowledge base
+├── notebooks/ # Jupyter notebooks for prototyping and experiments
+├── models/ # Pretrained or fine-tuned models
+├── static/ # Frontend static files (CSS, JS)
+├── templates/ # HTML templates for Flask app
+└── utils/ # Utility scripts and helpers
+
+
+
+---
+
+## Features
+
+- Conversational AI: Natural language understanding to handle medical queries.
+- Knowledge Retrieval: Uses document search and similarity matching for accurate answers.
+- Medical Data Support: Trained or integrated with trusted medical datasets.
+- Context Awareness: Maintains conversation context for meaningful interactions.
+- Privacy Considerations: No storage of personal medical data by default.
+- Easy Deployment: Runs with minimal setup, suitable for local or cloud hosting.
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Python 3.8+
+- pip package manager
+
+### Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/manasdekivadia/medical-chatbot.git
+   cd medical-chatbot
+'''
