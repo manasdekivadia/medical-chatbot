@@ -9,6 +9,20 @@ Welcome to the **Medical Chatbot** project! This intelligent assistant is design
 The Medical Chatbot leverages state-of-the-art language models and knowledge retrieval to answer health-related questions accurately and efficiently. It is built for easy integration, extensibility, and deployment as a web or desktop app.
 
 ---
+## Tech Stack / Technologies Used
+
+### Languages & Frameworks:
+- Python 3.10
+- Flask (Web backend framework)
+- HTML/CSS (Frontend templates)
+- 
+### Libraries & Tools:
+- LangChain (Context-aware chains for retrieval-based QA)
+- Hugging Face Transformers (Language models)
+- FAISS / Similarity Search (for document retrieval)
+- SentenceTransformers (Embeddings for semantic similarity)
+- PyPDFLoader (Loading and parsing PDFs)
+- Jupyter Notebook (Exploratory analysis and prototyping)
 
 ## Repository Structure
 ```
@@ -70,3 +84,4 @@ medical-chatbot/
    ```bash
    http://127.0.0.1:5000
 
+<p align="center"><strong>Happy to help</strong></p>
